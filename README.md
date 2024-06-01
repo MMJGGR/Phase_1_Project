@@ -1,6 +1,6 @@
 # Microsoft Enters the Movie Business:
 
-###Author: Richard Macharia
+### Author: Richard Macharia
 
 ### Project Overview
 
